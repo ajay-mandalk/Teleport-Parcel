@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "302301451153",
+    "project_id": "agro-fly-7b4edv",
+    "storage_bucket": "agro-fly-7b4edv.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302301451153:android:35bdad78bf5a60d76b0030",
+        "android_client_info": {
+          "package_name": "com.mycompany.agrofly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWZh-Q3pLvhSJUOvpr6cKSBc0NkuxuLPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302301451153:android:33b5e40be125ff146b0030",
+        "android_client_info": {
+          "package_name": "io.flutterflow.phoneauthentication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWZh-Q3pLvhSJUOvpr6cKSBc0NkuxuLPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
